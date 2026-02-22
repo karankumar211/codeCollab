@@ -79,13 +79,6 @@ cd codeCollab
 - Create or join a room to begin editing.
 - Share the room link with teammates to collaborate.
 
-### 6. Running Tests
-> *(Add instructions here if tests exist)*
-
-### 7. Deployment
-*Describe production build steps, environment variables, and any hosting notes.*
-
----
 
 ## 📁 Project Structure
 ```
@@ -102,7 +95,6 @@ server/            # Express backend
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request with a clear description of your changes.
 
----
 
-## 📄 License
-[MIT](LICENSE)
+
+
